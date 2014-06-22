@@ -1,12 +1,14 @@
-default-gulp-config
-===================
-
 Folder Hierarchy needs to be:
-./
-  dev/
-    images
-    js
-    sass
-  dist/
-    css
-    images
+<ul>
+  <li>dev/</li>
+    <ul>
+      <li>images</li>
+      <li>js</li>
+      <li>sass</li>
+    </ul>
+  <li>dist/</li>
+    <ul>
+      <li>css</li>
+      <li>images</li>
+    </ul>
+</ul>
